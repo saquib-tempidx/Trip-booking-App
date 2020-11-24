@@ -1,0 +1,10 @@
+.checked{
+    color: orange;
+}
+.card:hover{
+    box-shadow: 2px 2px 2px 2px;;
+}
+.col-sm-3{
+    box-sizing: border-box;
+    margin: 3%;
+}
